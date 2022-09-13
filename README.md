@@ -26,7 +26,7 @@ Every developer should be duty bound to give back to the community by writing bl
 
 ## Reach out
 
-Follow me on [Twitter](https://twitter.com/2ndplayr) & [LinkedIn](https://www.linkedin.com/in/chris-c-6a2267109)
+Follow me on [Twitter](https://twitter.com/2ndplayerco) & [LinkedIn](https://www.linkedin.com/in/chris-c-6a2267109)
 
 
 
