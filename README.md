@@ -10,7 +10,7 @@ I am Chris as you probably might have noticed. I'm a Full-stack engineer who spe
 
 <img src="https://user-images.githubusercontent.com/16828559/189909043-d56ccc8c-f842-4956-b63e-dffcba29f2e0.png" width="50px" height="50px" /><img src="https://user-images.githubusercontent.com/16828559/189909179-ba96961b-1159-4e42-91eb-1848af54a9b3.png" width="50px" height="50px" /><img src="https://user-images.githubusercontent.com/16828559/189909671-d36b1acd-5574-4584-885e-3e4fce164a11.png" width="50px" height="50px" /><img src="https://user-images.githubusercontent.com/16828559/189909722-ffcb16a8-2ee3-40e1-913a-8af75d8650f0.png" width="50px" height="50px" /><img src="https://user-images.githubusercontent.com/16828559/189909773-2102f6dd-66cb-4919-96af-1c361da6589b.png" width="50px" height="50px" /><img src="https://user-images.githubusercontent.com/16828559/189909234-6d0a0200-30ef-4aa2-9ab2-cf4c60223e8a.png" width="50px" height="50px" />
 
-### Framworks
+### Frameworks
 
 <img src="https://user-images.githubusercontent.com/16828559/189909460-48ffd57a-debe-4f59-b28b-e6e2719fbdcd.png" width="50px" height="50px" /><img src="https://user-images.githubusercontent.com/16828559/189909507-ea48c80c-7ee4-410e-ae66-8ff78889169e.png" width="50px" height="50px" /><img src="https://user-images.githubusercontent.com/16828559/189909547-94c67c53-7ae3-4cc7-8eb7-f215b05d4989.png" width="50px" height="50px" /><img src="https://user-images.githubusercontent.com/16828559/189909582-774c642a-7c7d-419c-b79f-dea1651c9d17.png" width="50px" height="50px" />
 
@@ -20,12 +20,13 @@ I am Chris as you probably might have noticed. I'm a Full-stack engineer who spe
 
 
 
-
-
 ## Blog
 
 Every developer should be duty bound to give back to the community by writing blogs about things they have learnt, programming is hard and we owe it to new minds learning, just as we relied on the developers before us. So check out my small contribution at [2ndPlayer.co](https://www.2ndplayer.co/articles).
 
-### I'm Social
-![image](https://user-images.githubusercontent.com/16828559/189909043-d56ccc8c-f842-4956-b63e-dffcba29f2e0.png)
+## Reach out
+
+Follow me on [Twitter](https://twitter.com/2ndplayr) & [LinkedIn](https://www.linkedin.com/in/chris-c-6a2267109)
+
+
 
