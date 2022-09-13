@@ -12,11 +12,11 @@ I am Chris as you probably might have noticed. I'm a Full-stack engineer who spe
 
 ### Frameworks
 
-<img src="https://user-images.githubusercontent.com/16828559/189909460-48ffd57a-debe-4f59-b28b-e6e2719fbdcd.png" width="50px" height="50px" /><img src="https://user-images.githubusercontent.com/16828559/189909507-ea48c80c-7ee4-410e-ae66-8ff78889169e.png" width="50px" height="50px" /><img src="https://user-images.githubusercontent.com/16828559/189909547-94c67c53-7ae3-4cc7-8eb7-f215b05d4989.png" width="50px" height="50px" /><img src="https://user-images.githubusercontent.com/16828559/189909582-774c642a-7c7d-419c-b79f-dea1651c9d17.png" width="50px" height="50px" />
+<img src="https://user-images.githubusercontent.com/16828559/189909460-48ffd57a-debe-4f59-b28b-e6e2719fbdcd.png" width="40px" height="40px" /><img src="https://user-images.githubusercontent.com/16828559/189909507-ea48c80c-7ee4-410e-ae66-8ff78889169e.png" width="40px" height="40px" /><img src="https://user-images.githubusercontent.com/16828559/189909547-94c67c53-7ae3-4cc7-8eb7-f215b05d4989.png" width="40px" height="40px" /><img src="https://user-images.githubusercontent.com/16828559/189909582-774c642a-7c7d-419c-b79f-dea1651c9d17.png" width="40px" height="40px" />
 
 
 ### Databases
-<img src="https://user-images.githubusercontent.com/16828559/189909326-b8e3f572-2b4b-497f-bdc3-84cc588edeef.png" width="50px" height="50px" /><img src="https://user-images.githubusercontent.com/16828559/189909386-827693a7-4ca0-4ad0-a1d9-9a270a34c79d.png" width="50px" height="50px" /><img src="https://user-images.githubusercontent.com/16828559/189909891-0550bb76-5088-4467-9cf3-91739deac33f.png" width="50px" height="50px" /><img src="https://user-images.githubusercontent.com/16828559/189915410-9a0511ee-a344-4e49-85c6-3bb3074a4f57.png" width="50px" height="50px" />
+<img src="https://user-images.githubusercontent.com/16828559/189909326-b8e3f572-2b4b-497f-bdc3-84cc588edeef.png" width="40px" height="40px" /><img src="https://user-images.githubusercontent.com/16828559/189909386-827693a7-4ca0-4ad0-a1d9-9a270a34c79d.png" width="40px" height="40px" /><img src="https://user-images.githubusercontent.com/16828559/189909891-0550bb76-5088-4467-9cf3-91739deac33f.png" width="40px" height="40px" /><img src="https://user-images.githubusercontent.com/16828559/189915410-9a0511ee-a344-4e49-85c6-3bb3074a4f57.png" width="40px" height="40px" />
 
 
 
