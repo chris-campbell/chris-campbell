@@ -21,7 +21,7 @@ I am Chris as you probably might have noticed. I'm a Full-stack engineer who spe
 
 ## Software Engineering Certificate 
 
-<img src="https://s3.us-east-2.amazonaws.com/2ndplayer.co/Certificate.png" width="100%" height="400" />
+<img src="https://s3.us-east-2.amazonaws.com/2ndplayer.co/Certificate.png" width="100%" height="auto />
 
 
 
