@@ -19,13 +19,6 @@ I am Chris as you probably might have noticed. I'm a Full-stack engineer who spe
 <img src="https://user-images.githubusercontent.com/16828559/189909326-b8e3f572-2b4b-497f-bdc3-84cc588edeef.png" width="40px" height="40px" /><img src="https://user-images.githubusercontent.com/16828559/189909386-827693a7-4ca0-4ad0-a1d9-9a270a34c79d.png" width="40px" height="40px" /><img src="https://user-images.githubusercontent.com/16828559/189909891-0550bb76-5088-4467-9cf3-91739deac33f.png" width="40px" height="40px" /><img src="https://user-images.githubusercontent.com/16828559/189915410-9a0511ee-a344-4e49-85c6-3bb3074a4f57.png" width="40px" height="40px" />
 
 
-## Software Engineering Certificate 
-
-<img src="https://s3.us-east-2.amazonaws.com/2ndplayer.co/chris-campbell-cert.png" width="100%" height="auto" />
-
-
-
-
 ## Blog
 
 Every developer should be duty bound to give back to the community by writing blogs about things they have learnt, programming is hard and we owe it to new minds learning, just as we relied on the developers before us. So check out my small contribution at [2ndPlayer.co](https://www.2ndplayer.co/articles).
